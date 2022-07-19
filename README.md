@@ -1,7 +1,7 @@
 <!--
 [![Header](https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/header.jpg?raw=true)]()
 -->
- <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width ="100%">
+ <img src="https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/headers.png?raw=true" width ="100%" style="min-height:300px">
 
 <br />
 <br />
@@ -88,7 +88,7 @@ i'm Amardeep Kesharwani, a passionate self-taught full stack web developer, work
 
 <p align="center">
     <a href="https://github.com/AmardeepKesharwani"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmardeepKesharwani&theme=tokyonight&hide_border=true"  width="63%"  width="460" altAmardeepKesharwani"/></a>
-<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="36%"  width="460" alt="AmardeepKesharwani"/></a>
+<a href="https://github.com/AmardeepKesharwani"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amardeepkesharwani&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="36%"  width="460" alt="AmardeepKesharwani"/></a>
 </p>
 
 ## Connect with me 
