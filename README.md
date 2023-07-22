@@ -1,3 +1,5 @@
+https://qr-code-generator7.vercel.app
+
 <!--
 [![Header](https://github.com/AmardeepKesharwani/Amardeepkesharwani/blob/main/image/header.jpg?raw=true)]()
 -->
