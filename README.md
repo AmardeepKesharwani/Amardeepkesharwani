@@ -37,6 +37,7 @@ Management Systems, Operating Systems
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![Angular](https://img.shields.io/badge/Angular-FF2D20?style=for-the-badge&logo=angular&logoColor=white)
    ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
    ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -109,7 +110,7 @@ Management Systems, Operating Systems
 
 <a href="https://linkedin.com/in/amardeepkesharwani" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=4386fa&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<a href="https://www.instagram.com/anuj_kesharwani_/" target="_blank">
+<a href="https://www.instagram.com/amardeep_kesharwani/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
  <a href="https://www.facebook.com/anuj.kesharwani.397" target="_blank">
